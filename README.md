@@ -1,3 +1,5 @@
+# VRChat側で対策が入ったので不要なツールとなりました
+
 # 参考元
 Forked from Narazaka
 
